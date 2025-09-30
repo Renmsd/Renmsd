@@ -20,7 +20,7 @@ Hi, I’m **Renad Al-Rifai** — a **Computer Science graduate (First Honor, GPA
 ---
 
 ## 📫 Let’s Connect
-- **LinkedIn:** [Renad Al-Rifai](#)  
+- **LinkedIn:** [Renad Al-Rifai](#https://www.linkedin.com/in/renad-al-rifai-74546421a/)  
 - **GitHub:** You’re already here 👋  
 ## Hi there 👋
 
