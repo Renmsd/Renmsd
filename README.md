@@ -41,8 +41,6 @@ I focus on understanding models deeply, experimenting carefully, and turning ide
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://skillicons.dev/icons?i=ts" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45"/>
@@ -60,11 +58,8 @@ I focus on understanding models deeply, experimenting carefully, and turning ide
 
 ## 🔗 Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/renad-alrifai-74546421a/" target="_blank">
+  <a href="https://www.linkedin.com/in/renad-alrifai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.topcoder.com/members/46423" target="_blank">
-    <img src="https://img.shields.io/badge/TopCoder-DD0031?style=for-the-badge&logo=topcoder&logoColor=white"/>
   </a>
 </p>
 
