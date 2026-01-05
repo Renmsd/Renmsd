@@ -10,7 +10,7 @@ I focus on understanding models deeply, experimenting carefully, and turning ide
 - 🤖 Machine Learning & Deep Learning  
 - 📊 Data analysis & visualization  
 - 🧠 Exploring Generative AI & LLMs  
-- 🌍 Real-world applications in business and ecology  
+- 🌍 Real-world applications in finance, business and ecology  
 
 ---
 
@@ -48,13 +48,6 @@ I focus on understanding models deeply, experimenting carefully, and turning ide
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renmsd&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renmsd&layout=compact&theme=dracula" height="150"/>
-</div>
-
----
 
 ## 🔗 Connect
 <p align="left">
@@ -65,4 +58,3 @@ I focus on understanding models deeply, experimenting carefully, and turning ide
 
 ---
 
-<img src="https://raw.githubusercontent.com/Renmsd/Renmsd/output/snake.svg" alt="snake animation" />
